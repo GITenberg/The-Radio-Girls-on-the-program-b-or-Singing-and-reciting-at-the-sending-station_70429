@@ -7,6 +7,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '32061'
     url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 70429-h/images/cover.jpg
 creator:
   author:
     agent_name: Penrose, Margaret
@@ -17,6 +20,8 @@ description: 'Originally published by Cupples & Leon Company, Publishers, Margar
   Penrose''s "Radio Girls" books were later published by The Goldsmith Publishing
   Co. as "Campfire Girls" books, without illustrations. This book was also published
   as: The Campfire Girls on the program; or, Singing and reciting at the sending station.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70429#The-Radio-Girls-on-the-program-b-or-Singing-and-reciting-at-the-sending-station
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70429'
